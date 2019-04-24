@@ -1,0 +1,5 @@
+﻿  fun.cpp
+c:\users\administrator\desktop\young game project\2048\fun.cpp(214): warning C4474: printf_s: 格式字符串中传递的参数太多
+  c:\users\administrator\desktop\young game project\2048\fun.cpp(214): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  2048.vcxproj -> C:\Users\Administrator\Desktop\Young Game Project\Debug\2048.exe
+  2048.vcxproj -> C:\Users\Administrator\Desktop\Young Game Project\Debug\2048.pdb (Full PDB)

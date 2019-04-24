@@ -1,0 +1,24 @@
+﻿  main.cpp
+d:\programming\c_programming\threads\threads\main.cpp(120): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(153): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(189): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(195): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(201): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(207): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(243): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(249): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(255): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(260): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(297): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(298): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(299): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(300): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(301): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(308): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(309): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(310): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(316): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(317): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\programming\c_programming\threads\threads\main.cpp(318): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  Threads.vcxproj -> D:\programming\c_programming\Threads\Debug\Threads.exe
+  Threads.vcxproj -> D:\programming\c_programming\Threads\Debug\Threads.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  Linker.cpp
+d:\new projects\vs_project\doublelinkedlist\doublelinkedlist\linker.cpp(248): warning C4996: 'fputchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fputchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2452): note: 参见“fputchar”的声明
+d:\new projects\vs_project\doublelinkedlist\doublelinkedlist\linker.cpp(274): warning C4996: 'fputchar': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fputchar. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2452): note: 参见“fputchar”的声明
+  DoubleLinkedList.vcxproj -> D:\New Projects\VS_Project\DoubleLinkedList\Debug\DoubleLinkedList.exe
+  DoubleLinkedList.vcxproj -> D:\New Projects\VS_Project\DoubleLinkedList\Debug\DoubleLinkedList.pdb (Full PDB)

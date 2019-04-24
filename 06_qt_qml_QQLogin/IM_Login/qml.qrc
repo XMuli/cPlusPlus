@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/arrowback.png</file>
+        <file>images/back.gif</file>
+        <file>images/checkbox.png</file>
+        <file>images/closeback.png</file>
+        <file>images/drop_down_Button.png</file>
+        <file>images/flicker.png</file>
+        <file>images/HeadImage.png</file>
+        <file>images/keyboard.png</file>
+        <file>images/minback.png</file>
+        <file>images/more_accountlogin.png</file>
+        <file>images/state_away.png</file>
+        <file>images/state_busy.png</file>
+        <file>images/state_hide.png</file>
+        <file>images/state_notdisturb.png</file>
+        <file>images/state_online.png</file>
+        <file>images/state_Qme.png</file>
+    </qresource>
+</RCC>
