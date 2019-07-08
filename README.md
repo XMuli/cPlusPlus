@@ -58,8 +58,6 @@ c/c++小程序实例/小游戏
 
 ### 项目运行演示：
 
-<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709060821.png" height="450" width="700"/>
-
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709061139.gif" height="450" width="700"/>
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709061307.gif" height="450" />
