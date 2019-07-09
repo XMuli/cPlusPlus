@@ -182,7 +182,7 @@ c/c++小程序实例/小游戏
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052148.jpg' width='240' height='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg'/>
 
-<font color=#70AD47 size=4 face="幼圆">**touwoyimuli：** </font> 博客代码基于Apache License 2.0 协议进行分发和使用，更多信息参见[协议文件](/更多信息参见[协议文件](/LICENSE)。)。
+<font color=#70AD47 size=4 face="幼圆">**touwoyimuli：** </font> 博客代码基于Apache License 2.0 协议进行分发和使用，更多信息参见[协议文件](/LICENSE)。
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg' width='127' height='127'/>
 
