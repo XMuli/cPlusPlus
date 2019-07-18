@@ -10,7 +10,7 @@
 
 - **01_C_socket_tcp_and_udp：** 套接字、tcp、udp基于控制台的使用
 - **02_C_cmd命令操作通讯录：** 手敲双向量表的，模拟cmd控制台
-- **03_winAPI_Threads： **windows编程之线程的探究学习
+- **03_winAPI_Threads： ** windows编程之线程的探究学习
 - **04_c_FlappyBird_and_2048：** c语言变编写的`FlappyBird`和`2048`小游戏
 - **05_qt_TCP的C／S的带UI的聊天工具：** 仿照QQ的单人聊天功能
 - **06_qt_qml_QQLogin：** 仿照QQ的登录界面
