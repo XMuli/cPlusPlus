@@ -4,9 +4,19 @@
 
 ## 项目介绍：
 
-2018-02-C/C++语言编写的一些小的Deam，亦是有用来练手的小游戏，提升c/c++的技巧与运用，
+2018-02-C/C++：因为当初想着按照***年份-仓库个数-语言***命名仓库，现在发现不便修改名称，故会一直沿用
 
-c/c++小程序实例/小游戏    
+亦是有用来练手的小游戏，提升c/c++的技巧与运用，c/c++小程序实例/小游戏   ： 
+
+- **01_C_socket_tcp_and_udp：**套接字、tcp、udp基于控制台的使用
+- **02_C_cmd命令操作通讯录：**手敲双向量表的，模拟cmd控制台
+- **03_winAPI_Threads：**windows编程之线程的探究学习
+- **04_c_FlappyBird_and_2048：**c语言变编写的`FlappyBird`和`2048`小游戏
+- **05_qt_TCP的C／S的带UI的聊天工具：**仿照QQ的单人聊天功能
+- **06_qt_qml_QQLogin：**仿照QQ的登录界面
+- **07_qt_Chat_IM_QQ：**仿照QQ的群聊功能
+
+
 
 <font color=#70AD47 size=4 face="幼圆">**编码语言：**</font>![](https://img.shields.io/badge/language-c++-orange.svg)
 
@@ -18,7 +28,7 @@ c/c++小程序实例/小游戏
 
 <br>
 
-## **01_C_socket_tcp_and_udp**：
+## **01_C_socket_tcp_and_udp：**
 
 ### 相关文章链接：
 
@@ -154,11 +164,43 @@ c/c++小程序实例/小游戏
 
 <br>
 
-## 说明：
+## 07_qt_Chat_IM_QQ：
 
-**编程环境：** win10 x64 专业版
+### 相关文章链接：
 
-**编程软件：** visual studio 2015  Qt 5.9.8
+[项目实战：仿QQ的QQ简洁版2019群聊项目](https://blog.csdn.net/qq_33154343/article/details/96437681)
+
+### 源码说明：
+
+<font color=#70AD47 size=4 face="幼圆">版本:</font>![](https://img.shields.io/badge/v-1.0-brightgreen.svg)
+
+<font color=#70AD47 size=4 face="幼圆">编码语言：</font> ![](https://img.shields.io/badge/language-c++-orange.svg)
+
+<font color=#70AD47 size=4 face="幼圆">源码下载:</font> [06_qt_qml_QQLogin](https://github.com/touwoyimuli/2018_02_C_CPlus/tree/master/06_qt_qml_QQLogin/IM_Login)
+
+### 项目运行演示：
+
+<font color=#70AD47 size=4 face="幼圆">视频演示:</font> [仿QQ轻聊版2019群聊](https://www.bilibili.com/video/av59692500) 
+
+<font color=#70AD47 size=4 face="幼圆">图片演示：</font>
+
+![](https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/img/20190718182159.gif)
+
+![](https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/img/20190718182237.gif)
+
+<br>
+
+## 源码说明：
+
+以上各个项目，具有相关的博文来解释详细的过程以及源码思路和架构的重难点
+
+<br>
+
+## 开发平台环境：
+
+**编程环境：**  `win10 x64 专业版`
+
+**编程软件：**  `visual studio 2015`， `Qt Creator 4.8.2 (Enterprise)`， `Qt 5.9.7`
 
 <br>
 
