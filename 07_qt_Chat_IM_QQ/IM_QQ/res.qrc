@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/1.jpg</file>
+        <file>images/2.jpg</file>
+        <file>images/3.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/5.jpg</file>
+        <file>images/6.jpg</file>
+        <file>images/7.jpg</file>
+        <file>images/8.jpg</file>
+        <file>images/9.jpg</file>
+        <file>images/10.jpg</file>
+        <file>images/11.jpg</file>
+        <file>images/12.jpg</file>
+        <file>images/13.jpg</file>
+        <file>images/14.jpg</file>
+        <file>images/15.jpg</file>
+        <file>images/16.jpg</file>
+        <file>images/17.jpg</file>
+        <file>images/18.jpg</file>
+        <file>images/19.ico</file>
+        <file>images/加粗.png</file>
+        <file>images/倾斜.png</file>
+        <file>images/扫帚.png</file>
+        <file>images/统计.png</file>
+        <file>images/五角星.png</file>
+        <file>images/下划线.png</file>
+        <file>images/下载.png</file>
+        <file>images/调色盘 (1).png</file>
+    </qresource>
+</RCC>
