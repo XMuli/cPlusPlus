@@ -8,7 +8,7 @@
 
 亦是有用来练手的小游戏，提升c/c++的技巧与运用，c/c++小程序实例/小游戏   ： 
 
-- **01_C_socket_tcp_and_udp：**套接字、tcp、udp基于控制台的使用
+- **01_C_socket_tcp_and_udp：** 套接字、tcp、udp基于控制台的使用
 - **02_C_cmd命令操作通讯录：**手敲双向量表的，模拟cmd控制台
 - **03_winAPI_Threads：**windows编程之线程的探究学习
 - **04_c_FlappyBird_and_2048：**c语言变编写的`FlappyBird`和`2048`小游戏
