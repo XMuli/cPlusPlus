@@ -1,12 +1,14 @@
-# 2018_02_C_CPlus：
+# cPlusPlus：
 
-![](https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/log/20190708214213.png)
+
+
+<img src="https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/muli.png"  height="240" width="240" />
+
+
 
 ## 项目介绍：
 
-2018-02-C/C++：因为当初想着按照***年份-仓库个数-语言***命名仓库，现在发现不便修改名称，故会一直沿用
-
-亦是有用来练手的小游戏，提升c/c++的技巧与运用，c/c++小程序实例/小游戏   ： 
+**提升c/c++的技巧与运用，c/c++小程序实例/小游戏，项目实战：** 
 
 - **01_C_socket_tcp_and_udp：** 套接字、tcp、udp基于控制台的使用
 - **02_C_cmd命令操作通讯录：** 手敲双向量表的，模拟cmd控制台
@@ -204,19 +206,17 @@
 
 <br>
 
-## 捐赠
+## star:
 
 若是帮助到了你，<font color=#FE7207  size=4 face="幼圆">可以点击该项目的的<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709023321.png" height="18" width="18"/>   **Star** 和<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709023317.png" height="18" width="18"/>  **Fork** 的两个图标，方便抬手之间，相当点个赞，</font>手有余香。
-
-亦可以捐助
-
-<img  src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709003145.jpg" height="205" width="400" align=center/>
 
 <br>
 
 ## 关于作者：
 
-<font color=#70AD47 size=4 face="幼圆">**touwoyimuli：** </font> touwoyimuli@gmai.com         [作者更多联系方式](https://touwoyimuli.github.io/about/)
+- <font color=#70AD47 size=4 face="幼圆">**xmuli：** </font> 
+  - xmulitech@gmail.com 
+  - [作者更多联系方式](https://xmuli.tech/about/)
 
 <br>
 
@@ -224,8 +224,8 @@
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052148.jpg' width='240' height='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg'/>
 
-<font color=#70AD47 size=4 face="幼圆">**touwoyimuli：** </font> 博客代码基于Apache License 2.0 协议进行分发和使用，更多信息参见[协议文件](/LICENSE)。
+博客代码基于Apache License 2.0 协议进行分发和使用，更多信息参见[协议文件](/LICENSE)。
 
 <img src='https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/project_log/20190709052153.jpg' width='127' height='127'/>
 
-<font color=#70AD47  size=4 face="幼圆">**touwoyimuli：** </font> 所含文章使用以下协议进行保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。
+所含文章使用以下协议进行保护：[署名-非商业性使用-禁止演绎](http://creativecommons.org/licenses/by-nc-nd/3.0/cn/)。
