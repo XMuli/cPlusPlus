@@ -5,10 +5,17 @@
 <img src="https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/muli.png"  height="240" width="240" />
 </div>
 
+<br>
 
 ## 项目介绍：
 
 **提升c/c++的技巧与运用，c/c++小程序实例/小游戏，项目实战：** 
+
+<br>
+
+> **本项目已收录于** [Product](https://product.xmuli.tech/)
+
+
 
 <br>
 
